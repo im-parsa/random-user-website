@@ -1,6 +1,6 @@
 import React from 'react';
-import { FaCalendarTimes, FaEnvelopeOpen, FaMapMarkerAlt, FaPhoneAlt, FaUser, FaUserCircle } from "react-icons/fa";
-import { DateFormat, FormatPhone } from "../../Modules/Format.Module";
+import { FaCalendarTimes, FaEnvelopeOpen, FaMapMarkerAlt, FaPhoneAlt, FaUser, FaUserCircle } from 'react-icons/fa';
+import { DateFormat, FormatPhone } from '../../Modules/Format.Module';
 
 import {
     CardContainer,
