@@ -11,7 +11,7 @@ axios.defaults.baseURL = 'https://randomuser.me/';
 
 ReactDOM.render(
     <React.StrictMode>
-        <BrowserRouter>
+        <BrowserRouter basename={window.location.pathname || ''}>
             <GlobalStyles />
             <App />
         </BrowserRouter>
