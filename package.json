@@ -6,8 +6,8 @@
     "url": "parsa-firoozi.ir"
   },
   "homepage": "https://im-parsa.github.io/random-user-website/",
-  "version": "0.2.0",
-  "private": true,
+  "version": "0.3.0",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
